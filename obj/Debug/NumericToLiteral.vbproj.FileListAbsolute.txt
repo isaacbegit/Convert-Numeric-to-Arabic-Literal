@@ -1,0 +1,11 @@
+D:\GitHub\NumericToLiteral\NumericToLiteral\bin\Debug\NumericToLiteral.exe.config
+D:\GitHub\NumericToLiteral\NumericToLiteral\bin\Debug\NumericToLiteral.exe
+D:\GitHub\NumericToLiteral\NumericToLiteral\bin\Debug\NumericToLiteral.pdb
+D:\GitHub\NumericToLiteral\NumericToLiteral\bin\Debug\NumericToLiteral.xml
+D:\GitHub\NumericToLiteral\NumericToLiteral\obj\Debug\NumericToLiteral.vbprojResolveAssemblyReference.cache
+D:\GitHub\NumericToLiteral\NumericToLiteral\obj\Debug\NumericToLiteral.Form1.resources
+D:\GitHub\NumericToLiteral\NumericToLiteral\obj\Debug\NumericToLiteral.Resources.resources
+D:\GitHub\NumericToLiteral\NumericToLiteral\obj\Debug\NumericToLiteral.vbproj.GenerateResource.Cache
+D:\GitHub\NumericToLiteral\NumericToLiteral\obj\Debug\NumericToLiteral.exe
+D:\GitHub\NumericToLiteral\NumericToLiteral\obj\Debug\NumericToLiteral.xml
+D:\GitHub\NumericToLiteral\NumericToLiteral\obj\Debug\NumericToLiteral.pdb
